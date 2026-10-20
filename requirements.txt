@@ -38,3 +38,6 @@ httpx
 
 #utilities
 python-dotenv
+
+#mlflow
+mlflow
